@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  background-color: cornflowerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.center {
+  width: 800px;
+  height: 400px;
+  border-radius: 20px;
+  background-color: aliceblue;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.text {
+  font-size: 32px;
+}
+
+.Bone {
+  width: 65px;
+  height: 32px;
+}/*# sourceMappingURL=index.css.map */
